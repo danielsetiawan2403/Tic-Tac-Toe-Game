@@ -2,6 +2,18 @@
 
 Permainan Tic Tac Toe dua pemain yang dibuat dengan React Native dan Expo sebagai tugas mata kuliah pemrograman mobile.
 
+## Tampilan Aplikasi
+
+<p align="center">
+  <img src="assets/images/gameplay.jpeg" alt="Permainan berlangsung" width="240" />
+  <img src="assets/images/menang.jpeg" alt="Pemain menang" width="240" />
+  <img src="assets/images/seri.jpeg" alt="Permainan seri" width="240" />
+</p>
+
+<p align="center">
+  <em>Kiri ke kanan: permainan berlangsung, pemenang terdeteksi, dan permainan seri.</em>
+</p>
+
 ## Fitur
 
 - Papan permainan 3x3
@@ -47,9 +59,10 @@ Prasyarat: Node.js, npm, dan aplikasi **Expo Go** di HP (Android/iOS).
 
 ```
 src/app/index.tsx   # Kode utama permainan Tic Tac Toe
+assets/screenshots/        # Gambar tampilan aplikasi untuk README
 ```
 
 ## Pembuat
 
-Daniel Setiawan
+Daniel Setiawan <br>
 41155050240018
